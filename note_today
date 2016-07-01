@@ -1,0 +1,8 @@
+
+GWT call js ?
+@ResponseBody
+@ResponseEntity
+json
+https://www.youtube.com/watch?v=qlT0T9NjKZ4
+/usr/lib/jvm/java-7-oracle/jre/bin/java
+<filter-name>ObjectifyFilter</filter-name>
