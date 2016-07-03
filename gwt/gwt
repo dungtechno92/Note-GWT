@@ -1,0 +1,12 @@
+SUPER DEV MODE http://www.gwtproject.org/articles/superdevmode.html
+1. How it works
+
+At startup, Dev Mode overwrites the GWT application’s nocache.js files with stub files that automatically recompile 
+the GWT application if necessary.
+The GWT application itself is loaded from a separate web server running on a different port (9876 by default).
+
+2. Debug
+we can’t use a normal Java debugger like in classic Dev Mode
+Browser debuggers are designed for debugging JavaScript. However, the SourceMaps standard allows the debugger 
+to display source code for Java (and other languages) instead of JavaScript files.
+In Chrome, you might need to turn on Source Maps in the debugger.
