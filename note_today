@@ -3,5 +3,6 @@ GWT call js ?
 @ResponseBody
 @ResponseEntity
 json
-
+guava
+full text search
 
