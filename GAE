@@ -1,1 +1,3 @@
 - LOG : Download log form gae cloud to local:  appcfg.sh -n 2 -A be-ful -V 1 request_logs /Users/dddd/git/beful/war  /Users/dddd/Desktop/sss/xxx.txt 
+- Remote API for Java
+  The Java SDK includes a library called Remote API that lets you transparently access App Engine services from any Java application.
