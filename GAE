@@ -1,0 +1,1 @@
+- LOG : Download log form gae cloud to local:  appcfg.sh -n 2 -A be-ful -V 1 request_logs /Users/dddd/git/beful/war  /Users/dddd/Desktop/sss/xxx.txt 
